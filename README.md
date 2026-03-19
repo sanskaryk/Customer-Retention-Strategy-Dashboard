@@ -6,6 +6,8 @@ This project focuses on analyzing customer behavior and identifying patterns tha
 
 The dashboard helps stakeholders understand key factors influencing churn and supports data-driven decision-making for improving customer retention strategies.
 
+Live Dashboard - https://app.powerbi.com/links/OVoGbLK0qA?ctid=59f93a44-5dd6-43d0-8417-9dcd3c0e2773&pbi_source=linkShare
+
 ---
 
 ## 🎯 Business Problem
