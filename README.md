@@ -71,6 +71,8 @@ This page provides a high-level summary of customer data and key churn indicator
 * Payment method distribution
 * Subscription lifecycle analysis
 
+<img width="1196" height="677" alt="page 1" src="https://github.com/user-attachments/assets/5f75d91c-58db-4931-b4b7-399162ac179e" />
+
 ---
 
 ### 📌 Page 2: Customer Segmentation & Risk Insights
@@ -84,6 +86,8 @@ This page focuses on analyzing customer segments and identifying patterns across
 * Payment method impact on customer behavior
 * Tenure-based analysis
 * Financial contribution by segment
+
+  <img width="1184" height="682" alt="page 2" src="https://github.com/user-attachments/assets/d153fb8b-b460-458e-a21d-a436d83af78b" />
 
 ---
 
